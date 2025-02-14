@@ -4,6 +4,8 @@
 
 Play it live here: [Snake Game](https://snake-gamev0.vercel.app/)
 
+Built with v0
+
 ## Features
 
 - Classic Snake gameplay mechanics
